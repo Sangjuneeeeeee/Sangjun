@@ -1,0 +1,31 @@
+%!Adobe-FontList 1.24
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Pretendard-Bold
+FamilyName:Pretendard
+StyleName:Bold
+FullName:Pretendard Bold
+MenuName:Pretendard
+StyleBits:2
+FamilyNameNative:Pretendard
+StyleNameNative:Bold
+FullNameNative:Pretendard Bold
+WritingScript:Korean
+OutlineFileName:F:\최상준\Visual Studio code\portpoliio\Font\Pretendard-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1576660
+FileModTime:1699208534
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard
+NameArray:0,Win,16,Pretendard
+%EndFont
+
